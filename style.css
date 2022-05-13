@@ -1,13 +1,13 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(255, 253, 250);
+    background-color: papayawhip;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 main {
-    border: 3px solid papayawhip;
+    border: 3px solid peachpuff;
     margin: 20px auto;
     width: 85%;
     padding: 10px;
@@ -27,15 +27,15 @@ p{
 }
 
 header {
-    background-color: papayawhip;
+    background-color: peachpuff;
     height: 30px;
     padding: 6px;
 }
 
 a {
-    color: palevioletred;
+    color: hotpink;
     text-decoration: none;
-    background-color: papayawhip;
+    background-color: peachpuff;
 }
 
 a:hover {
